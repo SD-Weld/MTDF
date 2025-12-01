@@ -59,9 +59,6 @@ The .whl files of causal_conv1d and mamba_ssm could be found here. {[Baidu](http
 3. Run `python train.py` to start training
 
 
-# User interface
-![image](https://github.com/cuiwq777/TRDM/assets/154526698/8ba32b78-daa8-4d96-938e-cd9db82515b6)
-
 # Demo of User interface
 ![ezgif com-video-to-gif-converted (3)](https://github.com/cuiwq777/TRDM/assets/154526698/0a1213c3-5744-46c5-a2a7-6e7302359a0c)
 
