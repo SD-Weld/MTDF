@@ -33,7 +33,6 @@ The data are used for academic purposes only.
 
 # Code
 Our code is available at  [MTDF](https://pan.baidu.com/s/1FmkXgNJ7eM7EQ566X4JHXQ?pwd=bq3x) (code: bq3x)
-
 # Main results
 The main experimental results are provided in [MTDF_Results](https://pan.baidu.com/s/1o0zEplwmF3jEZj8ghe14Wg?pwd=erui) (code: erui)
 
@@ -59,13 +58,7 @@ The .whl files of causal_conv1d and mamba_ssm could be found here. {[Baidu](http
 3. Run `python train.py` to start training
 
 
-# Demo of User interface
-![ezgif com-video-to-gif-converted (3)](https://github.com/cuiwq777/TRDM/assets/154526698/0a1213c3-5744-46c5-a2a7-6e7302359a0c)
 
-# Demo of the inspection process
-![ezgif com-video-to-gif-converted (4)](https://github.com/cuiwq777/TRDM/assets/154526698/2c2e5eab-8e9c-4ffe-943a-fc65c5512635)
-
-![ezgif com-video-to-gif-converted (5)](https://github.com/cuiwq777/TRDM/assets/154526698/d51f12da-204e-4e10-b900-c5e48b4c1940)
 
 
 
