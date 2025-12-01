@@ -17,8 +17,7 @@ Due to the presence of radioactivity in the testing process, we can only take ph
 
 # Supplementary material of Demo Video (X-ray Emitter)
 To better understand the acquisition principle, we recorded the actual video of the X-ray emission source and the receiver board. You can directly click on the link [X-ray Emitter](https://youtu.be/0UJoFMqeVMY) to watch our video.  A mechanical scribing device integrated with the detector housing is mounted next to the receiver plate, which makes an actual symbol marking on the steel tube surface when a defect is detected.  This synchronous defect marking protocol enhances traceability while maintaining the continuity of uninterrupted inspection.
-# The other Ongoing Plans
-Furthermore, a QR code tracing module is currently under development within the software ecosystem, designed to facilitate more secure and efficient quality control processes.  Specifically, this innovative module enables the generation of concise digital inspection reports when scanning QR codes affixed to individual steel pipes.  These comprehensive reports document critical quality parameters including: 1) quantitative analysis and categorical classification of manufacturing defects;  2) temporal records of defect identification;  and 3) traceable accountability through identification of responsible inspection personnel.  This dual-component system architecture establishes an auditable quality assurance mechanism while optimizing operational workflow efficiency.
+
 
 # SDL/WES/DIS Dataset
 Datasets can be found at [BaiduYun Drive](https://pan.baidu.com/s/1XbtjL58-aiNg1DxeQo6hmQ?pwd=wm4e) (code: wm4e).
