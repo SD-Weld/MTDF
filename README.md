@@ -32,9 +32,7 @@ The data are used for academic purposes only.
 <img width="615" alt="模型框架_MTDF_Elsevier_gai" src="https://github.com/user-attachments/assets/639e0942-49a8-44ff-89c2-bf09e3f9274a" />
 
 # Code
-Our code is available at  [MTDF](https://pan.baidu.com/s/17KtKYIfVaeNp9x9A4gjwkg)
-
-If you would like to access the code please feel free to email us to request the password. (cuiwenqi@stumail.neu.edu.cn)
+Our code is available at  [MTDF](https://pan.baidu.com/s/1gAV5dxmyrcGcLpQb8OyguA?pwd=MTDF)
 
 # Main results
 The main experimental results are provided in [MTDF_Results](https://pan.baidu.com/s/1o0zEplwmF3jEZj8ghe14Wg?pwd=erui) (code: erui)
